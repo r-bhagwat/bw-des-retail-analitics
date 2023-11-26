@@ -1,1 +1,1 @@
-# bw-des-retail-analitics
+# bw-des-retail-analytics
